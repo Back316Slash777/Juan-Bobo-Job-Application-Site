@@ -1,0 +1,34 @@
+body{
+  background-color: #698474;
+}
+h1, h3, p, ul, ol, h2, form {
+  border-radius: 10px;
+}
+h1{
+  color:#698474;
+  text-align: center;
+}
+h3{
+  background-color: #889E81;
+  text-align: center;
+}
+h1, p{
+  background-color: #E5E4CC;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr{
+  border-color: #BAC787;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 5%;
+  height: 0px;
+}
+ul, ol, h2, form{
+  background-color: #BAC787;
+}
